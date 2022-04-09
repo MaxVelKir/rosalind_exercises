@@ -5,3 +5,5 @@ mainly used to test around and group the solutions in one place
 and also run them faster
 
 The name of the different modules correspond to the problem name
+
+Code circa: July.2020 (intern @ Quanterall)
